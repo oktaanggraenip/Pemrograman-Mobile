@@ -1,16 +1,14 @@
 # flutter_application_1
 
-A new Flutter project.
+## Screenshot
+### Tampilan penuh
+![ss1](https://i.ibb.co/nskTf72/project1-ss1.png)
 
-## Getting Started
+### Setelah button decrement atau - diklik
+![ss2](https://i.ibb.co/wpsgVPP/project1-ss2.png)
 
-This project is a starting point for a Flutter application.
+### Muncul SnackBar ketika gambar diklik
+![ss3](https://i.ibb.co/2k1XGZr/project1-ss3.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Setelah button increment atau + diklik
+![ss4](https://i.ibb.co/mRkMg3S/project1-ss4.png)
